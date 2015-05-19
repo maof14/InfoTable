@@ -1,0 +1,12 @@
+# system files
+.DS_Store
+
+# images
+*.jpg
+
+# database
+*.db
+
+# fmdb
+
+/fmdb
